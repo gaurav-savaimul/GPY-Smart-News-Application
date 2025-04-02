@@ -4,6 +4,12 @@ An Android application for students, staff, and parents to stay informed about c
 ## 📌 Overview
 GPY Smart News is an Android-based notification system designed for the Government Polytechnic Yavatmal. The app lets students, staff, and parents receive real-time updates about college events, notices, and important announcements. It ensures seamless communication between the administration and users, making information dissemination faster and more efficient.
 
+![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-popgreen)
+![Java](https://img.shields.io/badge/Java-Backend-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Database-brown)
+![PHP](https://img.shields.io/badge/PHP-API_Communication-pink)
+![Push Notifications](https://img.shields.io/badge/Firebase_Push_Notifications-Enabled-hotpink)
+
 ## 🌟 Features
 - ✅ **Real-Time Notifications** – Get instant push notifications for important updates.
 - ✅ **Event Announcements** – Stay informed about upcoming college events and activities.
