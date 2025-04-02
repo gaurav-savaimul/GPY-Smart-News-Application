@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Used
 
 | Technology     | Description |
 |---------------|------------|
